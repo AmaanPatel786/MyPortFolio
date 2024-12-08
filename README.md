@@ -26,7 +26,7 @@ Here are some of the key skills I have acquired:
 - **Tech Jam 2.0**: Delivered presentations and hands-on sessions on data science for students from multiple colleges.
 
 ## Education
-- **BSc Data Science and Business Analytics** (Currently in Semester 3)
+- **BSc Data Science and Business Analytics** (Currently in Semester 4)
 - **HSC Board, 12th Grade**
 
 ## Certifications
